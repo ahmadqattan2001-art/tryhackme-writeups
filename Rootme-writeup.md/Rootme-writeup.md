@@ -47,7 +47,7 @@ To exploit the target system, escalate to root privileges, and access sensitive 
 
 ## Attack Chain (Red Team)
 
-Mentioned in the 4th photo that i uploaded  in the "screenshot" section
+Mentioned in the 4th photo that i uploaded  in the "screenshots" section
 
 ## Root Cause
 
